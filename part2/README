@@ -1,0 +1,29 @@
+Points to Note:
+---------------
+
+Q6: Run the command make q6 to compile and run for the first time and later,
+    we can run the command ./q6 to run the program again.
+    Limitations: Program only works for +, -, *, / operations only and
+    not for modulus or exponentiation or ++/-- operations.
+
+Q7: Run the command make q7 to compile and run for the first time and later,
+    we can run the command ./q7 to run the program again.
+    Limitations: Program only works for cases where each non-terminal is on the
+    left hand side of atmost two production rules. We combine all the production
+    rules of a non-terminal while giving input. Eg: X->XY|Z
+
+Q8: Run the command make q8 to compile and run for the first time and later,
+    we can run the command ./q8 to run the program again.
+    Limitations: Program only works for cases where each non-terminal is on the
+    left hand side of atmost two production rules. We combine all the production
+    rules of a non-terminal while giving input. Eg: X->XY|Z
+
+Q9: Run  the command make q9 to compile and run for the first time and later,
+    we can run the command ./q9 to run the program again.
+    Limitations: Program only works for +, -, *, /, = operations only and
+    not for () or modulus or exponentiation or ++/-- operations.
+
+Q10: Run  the command make q10 to compile and run for the first time and later,
+    we can run the command ./q10 to run the program again.
+    Limitations: Program only works for +, -, *, /, = operations only and
+    not for () or modulus or exponentiation or ++/-- operations.
